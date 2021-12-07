@@ -1,0 +1,5 @@
+Create new module
+// -> % go mod init MODULENAME%
+
+Go way to say percentage of tests cover
+go test -cover
